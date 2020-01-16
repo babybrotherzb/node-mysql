@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>post</title>
+    <link rel='stylesheet' type='text/css'  href="./public/main.css"></link>
+</head>
+<body>
+    <h2><a href="/list">返回首页</a></h2>
+    <form action="/pinglun" method="get">
+        <div>
+            <label>名字:</label>
+            <input name="name" required minlength="2" maxlength="10" placeholder="请输入你的姓名" />
+        </div>
+        <div>
+            <label>留言内容:</label>
+            <textarea name="message" required minlength="5" maxlength="100" placeholder="请输入您的宝贵留言" ></textarea>
+        </div>
+        <button type="submit">发表评论</button>
+    </form>
+</body>
+</html>

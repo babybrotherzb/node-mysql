@@ -1,0 +1,71 @@
+body{
+    background: #e7f5f9;
+    color: #999;
+}
+.top-button{
+    padding: 6px 20px;
+    background: #108da2;
+    color: #fff;
+    cursor: pointer;
+}
+.top-button>a{
+    cursor: pointer;
+}
+.box{
+    display: flex;
+    border: 1px solid #ccc;
+    justify-content: space-between;
+    width: 709px;
+    position: relative;
+    padding: 0px 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.delet{
+    position: absolute;
+    right: -72px;
+    top: 10px;
+    background: #f38585;
+    padding: 4px 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.delet:hover{
+    background:#c36060;
+    color: #e4e0e0;
+}
+
+.box p:first-child{
+    overflow: hidden;
+    max-width: 500px;
+    white-space: nowrap;
+}
+
+form{
+    width: 500px;
+}
+
+form label{
+    display: block;
+    margin-bottom: 5px;
+}
+form input{
+    width: 400px;
+    height: 30px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+form textarea{
+    width: 400px;
+    height: 100px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+form button{
+    padding: 6px 10px;
+    background: #9cc9f1;
+}

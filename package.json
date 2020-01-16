@@ -1,0 +1,21 @@
+{
+  "name": "node_test",
+  "version": "0.0.0",
+  "description": "node",
+  "author": "@baby张 <babybrotherzb@gmail.com>",
+  "address": "https://github.com/babybrotherzb",
+  "csdn":"https://blog.csdn.net/weixin_43648947",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "art-template": "^4.13.2",
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
