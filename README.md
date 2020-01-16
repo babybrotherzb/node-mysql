@@ -34,7 +34,7 @@
 ```
 
 
-[github地址 https://github.com/babybrotherzb](https://github.com/babybrotherzb)
+[github地址 https://github.com/babybrotherzb/node-mysql](https://github.com/babybrotherzb/node-mysql)
 
 [CSDN博客地址 @baby张 https://blog.csdn.net/weixin_43648947](https://blog.csdn.net/weixin_43648947)
 

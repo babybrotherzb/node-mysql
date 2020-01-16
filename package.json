@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "node",
   "author": "@baby张 <babybrotherzb@gmail.com>",
-  "address": "https://github.com/babybrotherzb",
+  "address": "https://github.com/babybrotherzb/node-mysql",
   "csdn":"https://blog.csdn.net/weixin_43648947",
   "main": "index.js",
   "scripts": {
